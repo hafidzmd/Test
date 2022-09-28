@@ -80,7 +80,7 @@ class Layer:
 
         if self.activation == 'sigmoid':
             return r * (1 - r)
-
+s
         return r
 
 
